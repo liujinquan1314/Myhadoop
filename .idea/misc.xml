@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ct_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ct_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/ct_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ct_analysis/pom.xml" />
+        <option value="$PROJECT_DIR$/ct_web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\newSowft\sbt\bin\sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="D:\newSowft\java\jdk\jre" />
+    <option name="vmParameters" value="-XX:MaxMetaspaceSize=512M -Dsbt.log.format=true -Dsbt.global.base=D:/newSowft/.sbt -Dsbt.ivy.home=D:/newSowft/.ivy2 -Dsbt.boot.directory=D:/newSowft/.sbt/boot/ -Dsbt.repository.config=D:/newSowft/sbt/conf/repo.properties" />
+  </component>
+</project>

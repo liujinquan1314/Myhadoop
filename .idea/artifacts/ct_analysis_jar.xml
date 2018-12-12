@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ct_analysis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ct_analysis_jar</output-path>
+    <root id="archive" name="ct_analysis.jar">
+      <element id="module-output" name="ct_analysis" />
+      <element id="extracted-dir" path="D:/jiabao/m2/repository/mysql/mysql-connector-java/5.1.27/mysql-connector-java-5.1.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
